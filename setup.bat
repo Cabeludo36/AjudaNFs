@@ -1,0 +1,1 @@
+/usr/bin/google-chrome --remote-debugging-port=8989 --user-data-dir="/home/breno/Área de Trabalho/t/Bibi/ChromeProfile"
